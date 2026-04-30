@@ -36,13 +36,6 @@
 
 ---
 
-### 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derdevz&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ### 📊 Profile Summary
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=derdevz&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
